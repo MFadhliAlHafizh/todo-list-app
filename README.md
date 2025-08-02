@@ -36,10 +36,9 @@ Aplikasi web **Todo List** sederhana dan responsif yang dibuat menggunakan **HTM
 
 ## 🚀 Cara Menjalankan Aplikasi
 
-1. **Clone** atau **download** repositori ini.
+1. **Clone** repositori ini dengan perintah:
    ```bash
-   https://github.com/MFadhliAlHafizh/todo-list-app.git
-   ```
+   git clone https://github.com/MFadhliAlHafizh/todo-list-app.git
 2. Buka file `index.html` di browser kamu.
 3. Aplikasi siap digunakan untuk mencatat dan mengelola tugas!
 
